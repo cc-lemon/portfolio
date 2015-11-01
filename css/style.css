@@ -42,13 +42,15 @@ page-header p {
     padding-right: 10px;
 }
 
- .thumbnail .ct {
+ .thumbnail {
      
      display:block;
     max-width: 100%;
     height: auto;
      margin-left: auto;
      margin-right: auto;
+     padding: 0px;
+     border: 0px;
     
  }
 
@@ -81,6 +83,12 @@ page-header p {
     
 
 @media only screen and (max-width : 992px){
+    .page-header { 
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
     .thumbnail {
         width: 70%;
         height: 70%;
