@@ -7,7 +7,7 @@ body { min-height: 100%
 }
 .first {
      padding-top: 40px;
-     background-color: cadetblue;
+     background-color: #16193B;
      background-size:cover;
      background-repeat:repeat;
      text-align: center;
@@ -68,7 +68,7 @@ page-header p {
 }
 .projects {
     padding-top: 40px;
-     background-color:bisque;
+     background-color:#35478C;
     background-size: cover;
     height: 100%;
     
