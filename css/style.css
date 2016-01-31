@@ -7,7 +7,7 @@ body { min-height: 100%
 }
 .first {
      padding-top: 40px;
-     background-color: #16193B;
+     background-color: #FCFFF5;
      background-size:cover;
      background-repeat:repeat;
      text-align: center;
@@ -39,7 +39,7 @@ page-header p {
 .fa {
     padding-top: 20px;
     padding-bottom: 30px;
-    color:white;
+    color:black;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -68,10 +68,27 @@ page-header p {
 }
 .projects {
     padding-top: 40px;
-     background-color:#35478C;
+    padding-bottom: 40px;
+     background-color:#D1DBBD;
     background-size: cover;
     height: 100%;
     
+
+}
+
+.eqballoons{
+    padding-top: 40px;
+    padding-bottom: 40px; 
+     background-color:#91AA9D;
+    background-size: cover;
+    height: 100%;
+}
+
+.proj2{
+    padding-top: 40px; 
+     background-color:#3E606F;
+    background-size: cover;
+    height: 100%;
 
 }
 .btn-info {
