@@ -55,6 +55,13 @@ page-header p {
      border: 0px;
     
  }
+.img-thumbnail{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px; 
+    border: 0px;
+    }
 
 .btn {
     white-space: normal;
@@ -126,6 +133,8 @@ page-header p {
     margin-right: auto;
         
 }
+
+    
 .btn-lg {    
     font-size: 14px;
 }
