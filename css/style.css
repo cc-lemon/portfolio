@@ -91,7 +91,7 @@ page-header p {
     height: 100%;
 }
 
-.proj2{
+.volvo{
     padding-top: 40px; 
      background-color:#3E606F;
     background-size: cover;
@@ -131,6 +131,7 @@ page-header p {
         height: 70%;
     margin-left: auto;
     margin-right: auto;
+    background-color: transparent;
         
 }
     
