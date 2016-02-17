@@ -98,6 +98,33 @@ page-header p {
     height: 100%;
 
 }
+
+ 
+
+.modal-body{
+    padding: 40px;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    height: 50%;
+}
+
+.modal-body img{
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.modal-body p{
+    color: whitesmoke;
+    font-family:;
+    background-color: #555454;
+    width: 600px;
+    padding: 2px;
+    
+}
+
+
 .btn-info {
     background-color: transparent;
     color: black;
