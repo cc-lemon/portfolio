@@ -1,0 +1,62 @@
+Enkel modal kod/popup 
+
+<div class="volvo">
+            <div class="row">
+          
+            <div class="col-md-2"> </div>
+                    
+            <div class="col-md-4">
+                
+                    <div class="text">
+                            
+                                <h2>Clients</h2>
+                                  
+                        
+                                         </div>
+                                        </div> 
+                <div class="col-md-4">
+                     <div class="row">
+                  
+                    <div class="col-md-5">
+                        <div class="thumbnail">
+                                           <a data-toggle="modal" href="#myThumbnailModal" >
+                                                <img class="thumbnail" src="img/volvo2.png" />
+                                            </a>
+
+                            <div class="modal fade in" id="myThumbnailModal">
+                                <div class="modal-body">
+                                <img src="img/volvo2.png"/>
+    
+                                <p>We worked with Volvo Cars during a short and intensive...</p>
+      </div>
+                               
+</div>     
+                        </div>
+                        <div class="thumbnail">
+                        <img src="img/Square2.jpg" class="img-thumbnail">
+                        </div>
+                    </div> 
+                    <div class="col-md-2"> </div>
+                        <div class="col-md-5">
+                           <div class="thumbnail">
+                        <img src="img/Square2.jpg" class="img-thumbnail">
+                        </div>
+                        <div class="thumbnail">
+                        <img src="img/Square2.jpg" class="img-thumbnail">
+                        </div>
+        
+                        </div>
+                        
+                    </div>
+                
+                
+                </div>
+
+                <div class="col-md-2">
+           
+            </div>
+
+             
+</div>
+</div> hhhh
+    

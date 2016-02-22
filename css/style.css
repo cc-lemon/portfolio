@@ -5,11 +5,19 @@ html { height: 100%
 body { min-height: 100%
     
 }
+p {
+    font-size: 1.2em; /* 14px/16=0.875em */
+    font-weight: bold;
+}
+h2 {
+    font-size: 2.4em;/* 30px/16=1.875em */
+     text-transform: uppercase;
+}
+
 .first {
      padding-top: 40px;
-     background-color: #FCFFF5;
+     background-color: #D9D4CC;
      background-size:cover;
-     background-repeat:repeat;
      text-align: center;
      height: 100%;
      margin-bottom: 0px;
@@ -52,15 +60,22 @@ page-header p {
      margin-left: auto;
      margin-right: auto;
      padding: 0px;
-     border: 0px;
-    
+     border: 0px;    
  }
+.a:hover {
+    text-decoration: none;
+}
+.btn-default:hover {
+    text-decoration: none;
+}
+
 .img-thumbnail{
     padding-top: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
     padding-left: 0px; 
     border: 0px;
+
     }
 
 .btn {
@@ -70,75 +85,32 @@ page-header p {
     padding-bottom: 0px;
     padding-left: 0px;
     display:block;
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
     height: 100%;
 }
-.projects {
+
+.text h2{
+    text-align: center;
+
+}
+
+.redesign {
     padding-top: 40px;
     padding-bottom: 40px;
-     background-color:#D1DBBD;
+     background-color:white;#BFB9AE
     background-size: cover;
     height: 100%;
-    
-
 }
 
-.eqballoons{
+.clients{
     padding-top: 40px;
-    padding-bottom: 40px; 
-     background-color:#91AA9D;
-    background-size: cover;
-    height: 100%;
-}
-
-.volvo{
-    padding-top: 40px; 
-     background-color:#3E606F;
+    padding-bottom: 60px;
+     background-color:#A69B8F;
     background-size: cover;
     height: 100%;
 
-}
-
- 
-
-.modal-body{
-    padding: 40px;
-     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:50%;
-    height: 50%;
-}
-
-.modal-body img{
-     display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-.modal-body p{
-    color: whitesmoke;
-    font-family:;
-    background-color: #555454;
-    width: 600px;
-    padding: 2px;
-    
-}
-
-
-.btn-info {
-    background-color: transparent;
-    color: black;
-    border-color: lightgrey;
-}
-.btn-info:hover {
-    background-color: lightgrey;
-    color: black;
-     border-color: lightgrey;
-}
-.btn-info:focus {
-     background-color: white;
-     color:black;
-     border-color: lightgrey;
 }
 
 .arrow {
